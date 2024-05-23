@@ -36,5 +36,5 @@ After successfully installing the dependencies, you can run the project using th
     npm run dev
     ```
 
-4. Navigate to recursive-partitioning &
+4. Navigate to RP &
    run index.html to see Recursive-partitioning
