@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
+  "include": ["src", "recursive-partitioning"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
