@@ -8,6 +8,12 @@ https://alphabet-tile-interaction-jade.vercel.app/
 
 https://muhammadamithasan.github.io/Recursive-partitioning/
 
+## Individual project link
+
+https://github.com/MuhammadAmitHasan/Recursive-partitioning
+
+https://github.com/MuhammadAmitHasan/alphabet-tile-interaction
+
 ## Installation
 
 1. Clone the repository:
@@ -19,14 +25,16 @@ https://muhammadamithasan.github.io/Recursive-partitioning/
    cd FDTA
    ```
 3. cd alphabet-tile-interaction
- ```bash
-   npm install
-   ```
-   After successfully installing the dependencies, you can run the project using the following command:
+
+```bash
+  npm install
+```
+
+After successfully installing the dependencies, you can run the project using the following command:
 
     ```bash
     npm run dev
-    ``` 
-4. Navigate to recursive-partitioning & 
-    run index.html to see Recursive-partitioning
+    ```
 
+4. Navigate to recursive-partitioning &
+   run index.html to see Recursive-partitioning
